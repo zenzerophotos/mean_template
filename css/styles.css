@@ -1,0 +1,41 @@
+
+
+.header{
+
+   background: -webkit-linear-gradient(left, #59adeb, #35ce93);
+
+}
+
+.body{
+
+}
+ .submit {
+
+   background-color: #55acee;
+   font:Arial;
+    border-radius:3px;
+    width: 31%;
+    color: white;
+    cursor: pointer;
+  margin-left: 40%;
+}
+
+.name{
+    margin-left: 40%;
+    width: 30%;
+    border-radius: grey;
+  margin-top: 50px;
+}
+.email{
+    margin-left: 40%;
+    width: 30%;
+    border-radius: grey;
+  margin-top: 20px;
+}
+.Password{
+    margin-left: 40%;
+    width: 30%;
+    border-radius: grey;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
