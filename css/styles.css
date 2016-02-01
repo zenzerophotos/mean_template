@@ -4,7 +4,7 @@
 }
 
 .agreements{
-  font-size: 6px;
+  font-size: 5px;
   margin-left: 32%;
   border-right: 20px;
   font-family: helvetica, arial, sans-serif;
@@ -47,31 +47,39 @@ align-items: center;
   background-image: url("https://www.facebook.com/photo.php?fbid=971005819601879&set=pcb.971005889601872&type=3&theater");
 }
 
+.header ul{
+  display: inline;
+}
 .header{
+
    background: -webkit-linear-gradient(left, #59adeb, #35ce93);
-   height: 20px;
    text-align: right;
-   width: 100%;
-   color: white;
    font-size: 6px;
    padding-top: 10px;
 
+}
+
+.header a{
+  text-decoration: none;
+  padding-right: 4%;
+  color: white;
 }
 
 .headline{
     margin-top: 55px;
     margin-left:38%;
     font-family:  arial, sans-serif;
+    text-decoration: none;
 }
 
  .submit {
     background-color: #55acee;
     font:Arial;
     border-radius:3px;
-    width: 25%;
+    width: 26%;
     color: white;
     cursor: pointer;
-    margin-left: 38%;
+    margin-left:38%;
     border-width: thin;
     font-size: 8px;
     padding: 5px;
