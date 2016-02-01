@@ -1,41 +1,78 @@
 
+.cb{
+  border-radius: 0px;
+  height: 8px;
+  border-width: thin;
+}
+
+.checkbox{
+  margin-left: 37%;
+  color: #74828b;
+  font-size: 6px;
+  font-family: sans-serif;
+}
 
 .header{
-
    background: -webkit-linear-gradient(left, #59adeb, #35ce93);
-
+   height: 20px;
+   text-align: right;
+   width: 100%;
 }
 
 .body{
 
 }
- .submit {
 
-   background-color: #55acee;
-   font:Arial;
+.headline{
+  margin-top: 55px;
+  margin-left:38%;
+  font-family:sans-serif;
+}
+
+ .submit {
+    background-color: #55acee;
+    font:Arial;
     border-radius:3px;
-    width: 31%;
+    width: 25%;
     color: white;
     cursor: pointer;
-  margin-left: 40%;
+    margin-left: 38%;
+    border-width: thin;
+    font-size: 8px;
+    padding: 5px;
 }
 
 .name{
-    margin-left: 40%;
-    width: 30%;
-    border-radius: grey;
-  margin-top: 50px;
+    margin-left: 38%;
+    width: 25%;
+    border-radius:2px ;
+    margin-top: 0px;
+    border-width: thin;
+    font-size: 10px;
+    height: 1.5em;
+    padding: 2px;
+    font-size: 8px;
 }
+
 .email{
-    margin-left: 40%;
-    width: 30%;
-    border-radius: grey;
-  margin-top: 20px;
+    margin-left: 38%;
+    width: 25%;
+    border-radius: 2px ;
+    font-size: 10px;
+    border-width: thin;
+    margin-top: 10px;
+    height: 1.6em;    padding: 2px;
+        font-size: 8px;
 }
+
 .Password{
-    margin-left: 40%;
-    width: 30%;
-    border-radius: grey;
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-left: 38%;
+    width: 25%;
+    border-radius:2px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 10px;
+    height: 1.5em;
+    border-width: thin;    padding: 2px;
+        font-size: 8px;
 }
