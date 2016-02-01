@@ -13,5 +13,5 @@ server.post('/signup', function(req, res){
 });
 
 server.listen(8080, function(){
-	console.log("Now listening on port 8080");
+	console.log("Now baking cookies");
 });

@@ -1,4 +1,35 @@
 
+.advanced{
+  margin-left:13%;
+}
+
+.agreements{
+  font-size: 6px;
+  margin-left: 32%;
+  border-right: 20px;
+  font-family: helvetica, arial, sans-serif;
+  color: #74828b;
+
+}
+
+.agreements a {
+  color: #55acee;
+  font-family: helvetica, arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  text-decoration: none;
+
+}
+
+.agreements a:hover {
+text-decoration: underline;
+}
+
+.image{
+background-image: url("https://www.facebook.com/photo.php?fbid=971005816268546&set=pcb.971005889601872&type=3&theater");
+align-items: center;
+}
+
 .cb{
   border-radius: 0px;
   height: 8px;
@@ -12,21 +43,25 @@
   font-family: sans-serif;
 }
 
+.title{
+  background-image: url("https://www.facebook.com/photo.php?fbid=971005819601879&set=pcb.971005889601872&type=3&theater");
+}
+
 .header{
    background: -webkit-linear-gradient(left, #59adeb, #35ce93);
    height: 20px;
    text-align: right;
    width: 100%;
-}
-
-.body{
+   color: white;
+   font-size: 6px;
+   padding-top: 10px;
 
 }
 
 .headline{
-  margin-top: 55px;
-  margin-left:38%;
-  font-family:sans-serif;
+    margin-top: 55px;
+    margin-left:38%;
+    font-family:  arial, sans-serif;
 }
 
  .submit {
@@ -40,7 +75,16 @@
     border-width: thin;
     font-size: 8px;
     padding: 5px;
+    text-decoration: none;
 }
+
+.submit a{
+  text-decoration: none;
+  color: white;
+  font-family:  arial, sans-serif;
+
+}
+
 
 .name{
     margin-left: 38%;
@@ -62,7 +106,7 @@
     border-width: thin;
     margin-top: 10px;
     height: 1.6em;    padding: 2px;
-        font-size: 8px;
+    font-size: 8px;
 }
 
 .Password{
@@ -73,6 +117,7 @@
     margin-bottom: 5px;
     font-size: 10px;
     height: 1.5em;
-    border-width: thin;    padding: 2px;
-        font-size: 8px;
+    border-width: thin;
+    padding: 2px;
+    font-size: 8px;
 }
