@@ -13,5 +13,5 @@ server.post('/signup', function(req, res){
 });
 
 server.listen(8080, function(){
-	console.log("Now baking cookies");
+	console.log("Now baking cookies!");
 });

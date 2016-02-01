@@ -72,6 +72,24 @@ align-items: center;
     text-decoration: none;
 }
 
+.cb{
+  margin-bottom: 20px;
+}
+
+.cb a{
+  text-decoration: none;
+  color: #55acee
+
+}
+.cb a:hover {
+  color: #55acee;
+  font-family: helvetica, arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  text-decoration: underline;
+
+}
+
  .submit {
     background-color: #55acee;
     font:Arial;
