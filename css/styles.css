@@ -55,7 +55,8 @@ align-items: center;
    background: -webkit-linear-gradient(left, #59adeb, #35ce93);
    text-align: right;
    font-size: 6px;
-   padding-top: 10px;
+   padding-top: 7px;
+   padding-bottom: 5px;
 
 }
 
